@@ -1,4 +1,4 @@
-# Practica_4 Quiz App
+# SwiftQuizApp
 
 Una aplicación de cuestionarios desarrollada en Swift que permite a los usuarios responder preguntas, comprobar respuestas y marcar sus favoritos. Esta aplicación utiliza una API remota para obtener los datos de los cuestionarios.
 
@@ -17,12 +17,12 @@ Una aplicación de cuestionarios desarrollada en Swift que permite a los usuario
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/Practica_4.git
+    git clone https://github.com/tu-usuario/SwiftQuizApp.git
     ```
 2. Abre el proyecto en Xcode:
     ```sh
     cd Practica_4
-    open Practica_4.xcodeproj
+    open SwiftQuizApp.xcodeproj
     ```
 3. Asegúrate de tener instaladas las dependencias utilizando Swift Package Manager:
     ```sh
