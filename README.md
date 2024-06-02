@@ -22,7 +22,7 @@ Una aplicación de cuestionarios desarrollada en Swift que permite a los usuario
 2. Abre el proyecto en Xcode:
     ```sh
     cd Practica_4
-    open SwiftQuizApp.xcodeproj
+    open Practica_4.xcodeproj
     ```
 3. Asegúrate de tener instaladas las dependencias utilizando Swift Package Manager:
     ```sh
